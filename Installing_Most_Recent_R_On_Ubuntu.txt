@@ -1,0 +1,21 @@
+## How to install the Most recent R version on Ubuntu
+## Adjust your source_list pointing to your Ubuntu version. saucy, precise etc
+## Add the following lines into you source_list
+
+## Open sources.list
+sudo vi /etc/apt/sources.list
+
+## Add this line depending on your ubuntu version
+deb http://cran.us.r-project.org/bin/linux/ubuntu precise/
+
+## Normally I would ask you to remove any previous R-on your system which is old
+sudo apt-get remove r-base-dev && sudo apt-get remove r-core-base
+
+## Now Add the line:
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 51716619E084DAB9
+
+## Now install recent version of R
+sudo apt-get install r-base-core && sudo apt-get install r-base-dev
+
+### There you go, you have R Now!!!
+
