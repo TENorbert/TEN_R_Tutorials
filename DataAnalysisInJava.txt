@@ -10,6 +10,8 @@ http://introcs.cs.princeton.edu/java/code/
 http://jwork.org/dmelt/
 ## Data Analysis Apps:
 http://www.ibm.com/developerworks/library/bd-dataminingblu-app/
+https://today.java.net/article/2011/05/15/data-analysis-and-data-mining-using-java-jython-and-jhepwork
+http://alias-i.com/lingpipe/demos/tutorial/sentiment/read-me.html
 
 ### TextBook
 http://introcs.cs.princeton.edu/java/home/
