@@ -1,0 +1,28 @@
+## Bunch of Help to start data Analysis in Java
+## Where is Data:
+http://www.oswego.edu/~kane/econometrics/data.htm
+http://introcs.cs.princeton.edu/java/data/
+## Java & Tools:
+http://introcs.cs.princeton.edu/java/97data/
+### Code:
+http://introcs.cs.princeton.edu/java/code/
+## Data Computation & Visualization environment
+http://jwork.org/dmelt/
+## Data Analysis Apps:
+http://www.ibm.com/developerworks/library/bd-dataminingblu-app/
+
+### TextBook
+http://introcs.cs.princeton.edu/java/home/
+http://www.pearsonhighered.com/educator/product/Introduction-to-Programming-in-Python-An-Interdisciplinary-Approach/9780134076430.page
+
+### Lectures:
+http://introcs.cs.princeton.edu/java/lectures/
+
+### Useful Libraries
+http://introcs.cs.princeton.edu/java/stdlib/
+### Get Java on Linux: 
+http://introcs.cs.princeton.edu/java/linux/
+### Windows
+http://introcs.cs.princeton.edu/java/windows/
+
+
