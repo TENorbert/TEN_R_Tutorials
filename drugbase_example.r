@@ -658,3 +658,6 @@ plot(	x=iris$Petal.Length,
 		xlab="Petal length", 
 		ylab="Sepal length", 
 		col=color.vector)
+
+## See How long it took to run
+proc.time()
